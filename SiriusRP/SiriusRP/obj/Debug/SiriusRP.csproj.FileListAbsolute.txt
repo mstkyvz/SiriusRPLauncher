@@ -1,0 +1,11 @@
+C:\Users\yavuz\source\repos\SiriusRP\SiriusRP\bin\Debug\SiriusRP.exe.config
+C:\Users\yavuz\source\repos\SiriusRP\SiriusRP\bin\Debug\SiriusRP.exe
+C:\Users\yavuz\source\repos\SiriusRP\SiriusRP\bin\Debug\SiriusRP.pdb
+C:\Users\yavuz\source\repos\SiriusRP\SiriusRP\bin\Debug\fivemLuncher.dll
+C:\Users\yavuz\source\repos\SiriusRP\SiriusRP\obj\Debug\SiriusRP.csprojAssemblyReference.cache
+C:\Users\yavuz\source\repos\SiriusRP\SiriusRP\obj\Debug\SiriusRP.Form1.resources
+C:\Users\yavuz\source\repos\SiriusRP\SiriusRP\obj\Debug\SiriusRP.Properties.Resources.resources
+C:\Users\yavuz\source\repos\SiriusRP\SiriusRP\obj\Debug\SiriusRP.csproj.GenerateResource.cache
+C:\Users\yavuz\source\repos\SiriusRP\SiriusRP\obj\Debug\SiriusRP.csproj.CopyComplete
+C:\Users\yavuz\source\repos\SiriusRP\SiriusRP\obj\Debug\SiriusRP.exe
+C:\Users\yavuz\source\repos\SiriusRP\SiriusRP\obj\Debug\SiriusRP.pdb
